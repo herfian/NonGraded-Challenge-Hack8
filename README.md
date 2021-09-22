@@ -1,2 +1,4 @@
-# NonGradedChallangeHack8
-Repositori Non Graded Challange M Rizki Herfian
+# Non Graded Challenge Hacktiv8
+# Full Time Data Sciene
+
+Repositori pengumpulan tugas Non Graded Challenge by M Rizki Herfian
